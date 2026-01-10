@@ -1,6 +1,0 @@
-@GloboTicketManagement_HostAddress = http://localhost:5227
-
-GET {{GloboTicketManagement_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
