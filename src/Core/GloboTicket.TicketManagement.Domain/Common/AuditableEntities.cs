@@ -1,6 +1,6 @@
 namespace GloboTicket.TicketManagement.Domain.Common
 {
-    public intern class AuditableEntities
+    public class AuditableEntities
     {
         public string CreatedBy { get; set; } = string.Empty;
         public DateTime CreatedDate { get; set; }
